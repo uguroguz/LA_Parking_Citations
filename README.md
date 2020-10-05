@@ -2,7 +2,7 @@
 Data Analyst project about LA Parking  Citations
 
 Hi,
-In this porject we aim to get some insights by analyzing "LA Parking Citations".
+The aim of the project is to get some insights by analyzing "LA Parking Citations".
 
 By analyzing this dataset we can answer not only parking citation problems but also
 we can gain information about the people who are more tend to violate these rules, their approximant wealth rate;
